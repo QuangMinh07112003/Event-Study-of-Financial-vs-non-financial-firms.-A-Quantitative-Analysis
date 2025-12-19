@@ -1,0 +1,13 @@
+ticker,year,revenue_billion,yoy_rev_growth,demand_effect,operational_effect,sector,size
+AB,2020,0.3,0.1581,-0.02912,0.18722,Asset Management,Small
+AMG,2020,2.02,-0.0947,-0.02912,-0.06558,Asset Management,Small
+BLK,2020,16.2,0.1146,0.07585,0.03875,Asset Management,Big
+DHIL,2020,0.12,-0.0749,-0.02912,-0.04578,Asset Management,Small
+FDP,2020,4.2,-0.0639,-0.0708666666666666,0.0069666666666666,Consumer Staples,Small
+FHI,2020,1.44,0.0915,-0.02912,0.12062,Asset Management,Small
+JJSF,2020,0.98,-0.1817,-0.0708666666666666,-0.1108333333333333,Consumer Staples,Small
+JPM,2020,119.77,0.0371,0.07585,-0.03875,Asset Management,Big
+KO,2020,33.01,-0.1141,-0.0561,-0.058,Consumer Staples,Big
+NSRGY,2020,96.05,0.0019,-0.0561,0.058,Consumer Staples,Big
+WDFC,2020,0.43,0.033,-0.0708666666666666,0.1038666666666666,Consumer Staples,Small
+WHG,2020,0.06511,-0.2256,-0.02912,-0.19648,Asset Management,Small
