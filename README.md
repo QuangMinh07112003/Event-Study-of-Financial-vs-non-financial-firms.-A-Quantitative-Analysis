@@ -65,6 +65,19 @@ These metrics are linked to stock return behavior to see whether firms with stro
 
 <img width="4413" height="1468" alt="fundamentals_fingerprint" src="https://github.com/user-attachments/assets/c7cd8929-c84b-4b75-b20b-821e12210a23" />
 
+### Cumulative Abnormal Returns (2008 Financial Crisis)
+<img width="1172" height="701" alt="image" src="https://github.com/user-attachments/assets/2d6b9c8f-b052-4d2e-811e-b55bcf201d28" />
+<img width="1181" height="701" alt="image" src="https://github.com/user-attachments/assets/b960697d-6610-4821-b01d-26e0e9d65d84" />
+
+### Cumulative Abnormal Returns (COVID-19 pandemic)
+
+<img width="1200" height="701" alt="image" src="https://github.com/user-attachments/assets/e5245872-310c-44f9-9e2b-147f58cf56cc" />
+<img width="1200" height="701" alt="image" src="https://github.com/user-attachments/assets/d8ebb0bb-e944-4cbe-af60-8e9b1b92f032" />
+
+
+
+
+
 ## Citations
 
 - Comparing COVID-19 with the GFC (currency markets): https://pmc.ncbi.nlm.nih.gov/articles/PMC9756040/
