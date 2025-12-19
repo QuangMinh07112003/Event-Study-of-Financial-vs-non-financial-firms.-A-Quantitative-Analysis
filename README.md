@@ -82,4 +82,5 @@ These metrics are linked to stock return behavior to see whether firms with stro
 
 - Comparing COVID-19 with the GFC (currency markets): https://pmc.ncbi.nlm.nih.gov/articles/PMC9756040/
 - Global Recovery (GFC vs. COVID-19): https://www.conference-board.org/publications/a-different-kind-of-global-recovery
+- Fama/French 5 Factors (2x3): https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
