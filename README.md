@@ -24,6 +24,8 @@ After cleaning and preprocessing, we used these two primary datasets for each cr
 - Operational Effect
 - Sector (Asset management / Consumer staples)
 - Size based on each sector
+- Fama-French 5 factor coefficients
+- Firms' daily returns (from 'yfinance' library)
 
 ## Libraries
 
