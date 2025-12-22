@@ -40,6 +40,8 @@ import re
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import yfinance
+import statsmodels.api as sm
 ```
 
 ## Methodology
