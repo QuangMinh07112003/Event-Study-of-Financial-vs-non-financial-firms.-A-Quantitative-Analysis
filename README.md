@@ -27,6 +27,9 @@ After cleaning and preprocessing, we used these two primary datasets for each cr
 - Fama-French 5 factor coefficients
 - Firms' daily returns (from 'yfinance' library)
 
+## Presentation Slide
+https://docs.google.com/presentation/d/14aPMTuVTMUEp1UOPPGpd_p_Pem32PpNK_4bSpqepNDo/edit?slide=id.g3a694986543_0_54#slide=id.g3a694986543_0_54
+
 ## Libraries
 
 The following Python libraries are required to run the analysis and modeling process:
